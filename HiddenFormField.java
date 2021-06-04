@@ -1,9 +1,3 @@
-<%-- 
-    Document   : HiddenFormField
-    Created on : 09-May-2021, 05:25:06
-    Author     : Anshita
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
