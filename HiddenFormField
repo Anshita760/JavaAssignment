@@ -1,5 +1,5 @@
 <%-- 
-    Document   : hiddenFormField
+    Document   : HiddenFormField
     Created on : 09-May-2021, 05:25:06
     Author     : Anshita
 --%>
@@ -13,7 +13,7 @@
     </head>
     <body>
         <h3>Login</h3>
-        <form action="hiddenFormFieldSer1" method="post" >
+        <form action="HiddenFormFieldSer1" method="post" >
             <input type="text" name="name" placeholder="Enter name" style="width: 50%"/><br><br>
         <input type="mail" name="mail" placeholder="Enter email id" style="width: 50%"/><br>
         <br><input type="submit" value="Login"/>
